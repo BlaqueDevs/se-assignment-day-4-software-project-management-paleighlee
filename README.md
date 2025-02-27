@@ -29,26 +29,54 @@ Strategies to prevent budget overruns:
 
 ## 3. Compare and contrast Agile and Waterfall methodologies. What are the main advantages and disadvantages of each?
 
-Waterfall:
- * Description:
-   * A linear, sequential approach where each phase must be completed before the next begins.
- * Advantages:
-   * Clear structure and documentation.
-   * Predictable process for well-defined projects.
- * Disadvantages:
-   * Inflexible to changes.
-   * Testing occurs late, potentially revealing major issues.
 Agile:
- * Description:
-   * An iterative and incremental approach, emphasizing flexibility and collaboration.
- * Advantages:
-   * Adaptable to changing requirements.
-   * Frequent feedback and early issue detection.
-   * greater customer satisfaction through constant interaction.
- * Disadvantages:
-   * Less predictable timelines and budgets.
-   * Requires strong collaboration and communication.
-   * Documentation can suffer due to the fast paced nature.
+
+Description:
+
+Iterative and incremental approach to project management and software development.
+
+Emphasizes flexibility, collaboration, and customer feedback.
+
+
+
+Advantages:
+
+Quick response to changes.
+
+Regular customer feedback.
+
+Improved team collaboration.
+
+
+Disadvantages:
+
+Less predictability.
+
+
+Waterfall:
+
+Description:
+
+Sequential and linear approach to project management.
+
+Emphasizes upfront planning and documentation.
+
+
+
+Advantages:
+
+Well-defined structure and milestones.
+
+Suitable for projects with clear requirements.
+
+
+Disadvantages:
+
+Less flexibility.
+
+Difficult to accommodate changes.
+
+
 
 
 ## 4. In what types of projects might Agile be more beneficial than Waterfall, and vice versa? Can you provide examples of each?
